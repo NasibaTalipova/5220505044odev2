@@ -1,0 +1,19 @@
+# 5220505044odev2
+odev2
+Yığın (Stack) ve Kuyruk (Queue), veri yapılarının temel tipleridir ve verileri depolamak, ekleme ve çıkarma işlemlerini yapmak için kullanılırlar. Ancak, kullanım amaçları ve davranışları açısından önemli farklılıklar vardır.
+
+Yığın (Stack):
+Yığın, verilerin son giren ilk çıkar (LIFO - Last-In, First-Out) prensibiyle çalışır. Bu, son eklenen veri öğesinin ilk çıkarılacağı anlamına gelir. Yığında veri eklemek işlemine "push" denirken, veri çıkarmak işlemine "pop" denir. Yığın, bir dizi veya liste üzerinde uygulanabilir.
+
+Yığın veri yapısının örnekleri arasında çağrı yığını (call stack), geri alma işlemleri ve tarayıcı geçmişi sayılabilir. Örneğin, bir işlev çağrısı yapıldığında, işlevin yerel değişkenleri ve geçerli durumu yığına eklenir. İşlev tamamlandığında, en son eklenen veri ilk olarak çıkarılır ve işlev çağrısının durumu geri yüklenir.
+
+Kuyruk (Queue):
+Kuyruk, verilerin ilk giren ilk çıkar (FIFO - First-In, First-Out) prensibiyle çalışır. Bu, ilk eklenen veri öğesinin ilk çıkarılacağı anlamına gelir. Kuyrukta veri eklemek işlemine "enqueue" denirken, veri çıkarmak işlemine "dequeue" denir. Kuyruk da bir dizi veya liste üzerinde uygulanabilir.
+
+Kuyruk veri yapısının örnekleri arasında işlem sırası yönetimi, mesaj kuyrukları ve iş parçacığı havuzları bulunabilir. Örneğin, bir iş parçacığı havuzunda birden çok iş parçacığı kullanılıyorsa, işler kuyruğa eklenir ve iş parçacıkları sırayla bu işleri alır ve gerçekleştirir.
+
+Farklılıklar:
+
+Yığın ve kuyruk, veri ekleme ve çıkarma işlemlerinde farklı sıra prensiplerini kullanır. Yığın, son giren ilk çıkar (LIFO) prensibiyle çalışırken, kuyruk ilk giren ilk çıkar (FIFO) prensibine göre çalışır.
+Yığında elemanlar üst üste eklenir ve en son eklenen eleman çıkarılırken, kuyruğun başı ve sonu farklıdır. Kuyrukta elemanlar bir uçtan eklenir (enqueue) ve diğer uçtan çıkarılır (dequeue).
+Yığın ve kuyruk veri yapıları farklı kullanım senaryoları için tercih edilir. Yığın, geri alma işlemleri ve işlev çağrıları gibi senaryolarda kullanılır.

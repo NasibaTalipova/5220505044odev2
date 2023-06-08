@@ -1,0 +1,13 @@
+# sorular
+# Aşağıda verilen adımları dikkate alarak istenilen adımları gerçekleştiren programı yazınız.
+a)Dizinin boyutunu ve elemanlarını kullanıcıdan isteyiniz.
+b)Dizide aranacak olan elemanı kullanıcıdan isteyiniz.
+c)Aranılan elemanın dizide olup olmadığının kontrolünü Linear Searchkullanarakyapınız.
+2.int dizi[]={4,8,3,84,47,76,9,24,68}a)Yukarıda verilen dizi üzerinde Binary Searchile arama işlemi gerçekleştiriniz.
+b)Arama  işlemi  yaparken  kullanmış  olduğunuz algoritmanınözelliklerini  dikkate  alarakkodlarınızı yazmaya dikkat ediniz.
+3.Yığın(Stack) ve Kuyruk (Queue)nedir? Aralarındaki farklılıklar nelerdir? Açıklayınız.
+4.Kuyruklarınbağlantılı liste uygulamasını gösterenbirprogramyazınız.
+Programın örnek ekran görüntüsü aşağıda verilmiştir.Kod yazılırkenaşağıda verilenadımlara dikkat edilmesi gerekmektedir.
+a)Ekleme, silme ve görüntüleme işlemleri değer döndürmeyen fonksiyon olarak tanımlayın.
+b)Ekleme, silme ve görüntüleme gibi tüm işlemleri kullanıcıdan isteyin.
+c)Girilen seçeneğe göre switch ifadesini kullanarak ilgili fonksiyona erişin.Aşağıda verilen adımları dikkate alarak istenilen adımları gerçekleştiren programı yazınız. a)Dizinin boyutunu ve elemanlarını kullanıcıdan isteyiniz.b)Dizide aranacak olan elemanı kullanıcıdan isteyiniz.c)Aranılan elemanın dizide olup olmadığının kontrolünü Linear Searchkullanarakyapınız.2.int dizi[]={4,8,3,84,47,76,9,24,68}a)Yukarıda verilen dizi üzerinde Binary Searchile arama işlemi gerçekleştiriniz.b)Arama  işlemi  yaparken  kullanmış  olduğunuz algoritmanınözelliklerini  dikkate  alarakkodlarınızı yazmaya dikkat ediniz.3.Yığın(Stack) ve Kuyruk (Queue)nedir? Aralarındaki farklılıklar nelerdir? Açıklayınız. 4.Kuyruklarınbağlantılı liste uygulamasını gösterenbirprogramyazınız. Programın örnek ekran görüntüsü aşağıda verilmiştir.Kod yazılırkenaşağıda verilenadımlara dikkat edilmesi gerekmektedir.a)Ekleme, silme ve görüntüleme işlemleri değer döndürmeyen fonksiyon olarak tanımlayın.b)Ekleme, silme ve görüntüleme gibi tüm işlemleri kullanıcıdan isteyin.c)Girilen seçeneğe göre switch ifadesini kullanarak ilgili fonksiyona erişin.
